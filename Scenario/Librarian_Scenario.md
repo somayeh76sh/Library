@@ -1,4 +1,4 @@
-## A librarian:
+## A Librarian:
 
 1. Add or remove a member
 2. Add or remove a book
