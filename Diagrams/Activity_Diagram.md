@@ -1,7 +1,5 @@
-# Register
-
 ![Register Diagram](https://s4.uupload.ir/files/1_ou2.jpg)
-
+# In Register
 1. Submit documents to the librarian
 2. Review of documents by the librarian
 3. Re-submit documents if incomplete
@@ -9,20 +7,16 @@
 5. Register as a new user
 
 
-# Login
-
 ![Login Diagram](https://s4.uupload.ir/files/3_5sx.jpg)
-
+# Login
 1. Enter username and password
 2. Check
 3. Verify and login
 4. Re-enter information if incorrect
 
 
-# Borrow Book
-
 ![Borrow Book Diagram](https://s4.uupload.ir/files/2_bq3f.jpg)
-
+# Borrow Book
 1. User request
 2. Librarian Review
 3. Membership confirmation by the system
@@ -30,10 +24,8 @@
 5. Loan if available
 
 
-# Return Book
-
 ![Return Book Diagram](https://s4.uupload.ir/files/4_bz5a.jpg)
-
+# Return Book
 1. Return the book by the user
 2. Payment of fines in case of delay
 3. Record book returns by the system
