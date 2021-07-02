@@ -7,6 +7,7 @@ public class Main {
 	static Scanner input = new Scanner(System.in);
 	public Main() {
 		loginMenu();
+                
 	}
 	public static void main(String[] args) {
 		new Main();
