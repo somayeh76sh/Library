@@ -1,4 +1,4 @@
-## A user :
+## A User:
 
 1. Can borrow a book and return it back,
 2. see the list of borrowed books,
