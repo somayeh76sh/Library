@@ -3,16 +3,16 @@
 1. Book Search
 2. Register
 
-## New User:
+* New User:
 1. Register
 2. Get a membership card
 3. Book loan
 
-## Old User:
+* Old User:
 1. Book loan
 2. Renewal of membership card
 
-## Librarian:
+* Librarian:
 1. Register
 2. Renewal of membership card
 3. change Password
