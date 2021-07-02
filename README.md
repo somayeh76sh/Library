@@ -17,7 +17,7 @@ In the system, many things such as renewing the registration and extending the b
 6. Book loan
 7. Picking books
 
-# Developers
+# Developer
 ID | First & Last Name
 ------------ | -------------
 [@somayeh76sh](https://github.com/somayeh76sh) | Somayeh Hajhosseini
